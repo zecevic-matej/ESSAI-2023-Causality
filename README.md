@@ -17,4 +17,4 @@ There are **2 things to be found** in this repository:
 
 Course is headed by Adèle Ribeiro (AR), Devendra Singh Dhami (DD) and Matej Zečević (MZ).
 
-Lecture 1: DD, Lecture 2: AR, Lecture 3: MZ, Lecture 4: MZ, Lecture 5: AR & DD.
+Lecture 1: DD, Lecture 2: AR, Lecture 3: MZ, Lecture 4: MZ, Lecture 5: AR & DD.# Causality-Tutorial
